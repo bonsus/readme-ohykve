@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonsus.github.io/readme-ohykve/sitemap.xml
